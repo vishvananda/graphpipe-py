@@ -1,7 +1,7 @@
 import argparse
-from http import server
 from sklearn import datasets
-from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.metrics import mean_squared_error
+from sklearn.metrics import r2_score
 
 from graphpipe import remote
 

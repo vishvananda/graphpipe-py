@@ -1,8 +1,8 @@
 import argparse
 from http import server
 
-from sklearn import datasets, linear_model
-from sklearn.metrics import mean_squared_error, r2_score
+from sklearn import datasets
+from sklearn import linear_model
 
 from graphpipe import convert
 

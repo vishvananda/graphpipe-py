@@ -1,7 +1,6 @@
 import argparse
 
 import numpy as np
-from sklearn import datasets
 
 from graphpipe import remote
 
